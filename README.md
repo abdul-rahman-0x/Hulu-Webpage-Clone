@@ -42,7 +42,7 @@ Prerequisites
 - Clone the repository
 
 ```
-git clone https://github.com/abdul-rahman-9/Hulu-Webpage-Clone.git
+git clone https://github.com/abdul-rahman-0x/Hulu-Webpage-Clone.git
 ```
   
 
